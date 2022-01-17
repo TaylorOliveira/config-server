@@ -12,7 +12,7 @@
 	<artifactId>config-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>config-server</name>
-	<description>Servidor do Spring para armazenar e servir configurações distribuídas em vários aplicativos e ambientes.</description>
+	<description>Spring server to store and serve configurations distributed across multiple applications and environments</description>
 	<properties>
 		<java.version>11</java.version>
 		<spring-cloud.version>2021.0.0</spring-cloud.version>
